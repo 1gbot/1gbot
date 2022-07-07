@@ -46,14 +46,6 @@
   </div>
   
   <div align="center">
-    <h2 align="center">~🍓 𝐒𝐭𝐚𝐭𝐬 🍓~</h2>
-  <br>
-                      𝐈𝐃𝐊 𝐡𝐨𝐰 𝐭𝐨 𝐩𝐮𝐭 𝐢𝐭 𝐡𝐞𝐫𝐞 𝐬𝐨 𝐞𝐫𝐦 :𝟑
-  </div>
-  <br>
-  <br>
-  
-  <div align="center">
     <h2 align="center">~ 🐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠! 🐥~</h2>
   </div>
   
