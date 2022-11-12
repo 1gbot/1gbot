@@ -30,7 +30,7 @@
       <br>
       <p align="center">
          <a href="https://twitter.com/the1gbot" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-         <a href="https://www.youtube.com/channel/@1gbot?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+         <a href="https://www.youtube.com/@1gbot?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
          <a href="https://www.snapchat.com/add/404" target="_blank"><img src="https://img.shields.io/badge/Snapchat%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
          <a href="https://discordapp.com/users/1gbot#8835" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
          <a href="https://steamcommunity.com/id/the1gbot/" target="_blank"><img src="https://img.shields.io/badge/Steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
